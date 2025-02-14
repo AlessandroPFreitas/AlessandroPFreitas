@@ -16,8 +16,12 @@
 ## 📊 GitHub Stats
 <div align="center">  
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlessandroPFreitas&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlessandroPFreitas&show_icons=true&count_private=true&hide=prs&hide_title=false&line_height=25&theme=radical)
+<img  
+      alt="GitHub Stats" 
+      height="170" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroPFreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </div>
 
 
@@ -25,6 +29,7 @@
 
 ## 🔗 Como entrar em contato comigo 
 <div align="center">
+  
   <a href="mailto:alessandropf2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alessandro-paulista-freitas-56768932b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
