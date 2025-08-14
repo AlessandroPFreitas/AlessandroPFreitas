@@ -15,14 +15,9 @@
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">  
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlessandroPFreitas&show_icons=true&count_private=true&hide=prs&hide_title=false&line_height=25&theme=radical)
-<img  
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroPFreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroPFreitas&show_icons=true&theme=react&include_all_commits=true&count_private=true&card_width=400px&text_bold=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroPFreitas&layout=compact&langs_count=8&theme=react&card_width=400px" />
 </div>
 
 
