@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alessandro Paulista 👋
 
--  🧑‍💻 **Atualmente estou focado no desenvolvimento** de um aplicativo mobile para acompanhamento de treinos e evolução na musculação. O projeto está sendo construído com React Native, permitindo uma experiência nativa tanto para usuários Android quanto iOS. <br>
--  ✨ **Estou aprimorando minhas habilidades** em React e seu ecossistema.
+- 🧑‍💻 Atualmente estou focado no desenvolvimento back-end, estudando Node.js e TypeScript para criar APIs REST robustas e escaláveis. 
+- ✨ Estou aprimorando minhas habilidades em arquitetura de APIs, integração com bancos de dados e boas práticas de desenvolvimento back-end.
 
 <div style="display: inline_block " align="center"><br>
   <img align="center" alt="Alee-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,6 +11,9 @@
   <img align="center" alt="Alee-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alee-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Alee-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alee-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Alee-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Alee-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
 </div>
 
