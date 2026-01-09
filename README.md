@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alessandro Paulista 👋
 
-- 🧑‍💻 Atualmente estou focado no desenvolvimento back-end, estudando Node.js e TypeScript para criar APIs REST robustas e escaláveis. 
-- ✨ Estou aprimorando minhas habilidades em arquitetura de APIs, integração com bancos de dados e boas práticas de desenvolvimento back-end.
+- 💻 Estudando o ecossistema Next.js e JavaScript para construção de aplicações reais e escaláveis.
+- 🛠️ Aprofundando conhecimentos em infraestrutura: orquestração com Docker, manipulação direta de SQL e testes de integração.
 
 <div style="display: inline_block " align="center"><br>
   <img align="center" alt="Alee-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,15 +14,15 @@
   <img align="center" alt="Alee-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Alee-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Alee-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Alee-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
 </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-<div align="center">  
-<!-- <img height="180em" 
+<div align="center">   <img height="180em" 
      src="https://github-readme-stats.zcy.dev/api?username=AlessandroPFreitas&show_icons=true&theme=highcontrast&include_all_commits=true&card_width=400&text_bold=false"
-/> -->
+/> 
   <img  
       alt="GitHub Stats" 
       height="180em" 
@@ -31,10 +31,7 @@
   />
 </div>
 
-
-
-
-<br>
+<br> -->
 
 ## 🔗 Como entrar em contato comigo 
 <div align="center">
